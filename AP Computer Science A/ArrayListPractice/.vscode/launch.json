@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WordPairList",
+            "request": "launch",
+            "mainClass": "WordPairList",
+            "projectName": "ArrayListPractice_eb7e7e5c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestHotel",
+            "request": "launch",
+            "mainClass": "TestHotel",
+            "projectName": "ArrayListPractice_eb7e7e5c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WordList",
+            "request": "launch",
+            "mainClass": "WordList",
+            "projectName": "ArrayListPractice_eb7e7e5c"
+        }
+    ]
+}

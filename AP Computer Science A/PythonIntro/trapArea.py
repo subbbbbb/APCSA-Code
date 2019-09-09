@@ -1,0 +1,8 @@
+print("Welcome to the trapezoid area calculator!")
+print("Enter your base1:")
+b1 = input()
+print("Enter your base2:")
+b2 = input()
+print("Enter your height:")
+height = input()
+print("The area of the trapezoid is " + str(0.5*(float(b1) + float(b2))*float(height)))

@@ -1,0 +1,7 @@
+print("Welcome to finding perimeter and area of a rectangle!")
+print("Enter the length:")
+length = input()
+print("Enter the width:")
+width = input()
+print("Perimeter is: " + str((int(length)*2 + int(width)*2)))
+print("Area is: " + str(int(length) * int(width)))

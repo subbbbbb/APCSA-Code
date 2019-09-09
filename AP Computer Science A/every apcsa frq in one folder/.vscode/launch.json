@@ -1,0 +1,88 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - finalPractice",
+            "request": "launch",
+            "mainClass": "FinalProject.finalPractice",
+            "projectName": "Every APCSA FRQ in One Folder_5d7478af"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaSubset",
+            "request": "launch",
+            "mainClass": "FinalProject.JavaSubset",
+            "projectName": "Every APCSA FRQ in One Folder_5d7478af"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - APLine",
+            "request": "launch",
+            "mainClass": "APCSAFinal.FRQS.APLine",
+            "projectName": "Every APCSA FRQ in One Folder_5d7478af"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - APLine",
+            "request": "launch",
+            "mainClass": "APLine",
+            "projectName": "Every APCSA FRQ in One Folder_5d7478af"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DiverseArray",
+            "request": "launch",
+            "mainClass": "DiverseArray",
+            "projectName": "Every APCSA FRQ in One Folder_5d7478af"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Kennel",
+            "request": "launch",
+            "mainClass": "x2004all.Kennel",
+            "projectName": "Every APCSA FRQ in One Folder_868620e4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - finalPractice",
+            "request": "launch",
+            "mainClass": "FinalProject.finalPractice",
+            "projectName": "Every APCSA FRQ in One Folder_868620e4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WordList",
+            "request": "launch",
+            "mainClass": "x2004all.WordList",
+            "projectName": "Every APCSA FRQ in One Folder_868620e4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A3Test",
+            "request": "launch",
+            "mainClass": "x2006all.A3Test",
+            "projectName": "Every APCSA FRQ in One Folder_5d7478af"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestTickets",
+            "request": "launch",
+            "mainClass": "x2005all.TestTickets",
+            "projectName": "Every APCSA FRQ in One Folder_5d7478af"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WordList",
+            "request": "launch",
+            "mainClass": "x2004all.WordList",
+            "projectName": "Every APCSA FRQ in One Folder_5d7478af"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestHotel",
+            "request": "launch",
+            "mainClass": "x2005all.TestHotel",
+            "projectName": "Every APCSA FRQ in One Folder_5d7478af"
+        }
+    ]
+}
